@@ -32,12 +32,12 @@
   <table align="center">
   <tr>
     <td>
- <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=muhammadzaeemilyas&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+ <img width="500" src="https://github-readme-stats-salesp07.vercel.app/api?username=muhammadzaeemilyas&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
     </td> 
-  <td>  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=muhammadzaeemilyas&langs_count=10&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <td>  <img width="500" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=muhammadzaeemilyas&langs_count=10&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
     </td>
     <td>
-      <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=muhammadzaeemilyas&show_icons=true&theme=react&border_radius=10" alt="streak stats"/>
+      <img width="500" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=muhammadzaeemilyas&show_icons=true&theme=react&border_radius=10" alt="streak stats"/>
     </td>
   </tr>
 </table>
